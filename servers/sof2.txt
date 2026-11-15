@@ -1,9 +1,9 @@
 # Server address list for Soldier of Fortune II: Double Helix (sof2)
-# Last fetch (UTC): 2026-11-14T12:01:52Z
+# Last fetch (UTC): 2026-11-15T12:01:42Z
 # Category: idTech / Quake | Protocol: quake3 | Default Port: 20100
-# Active servers found: 73
+# Active servers found: 75
 # Sources:
-#   - cache: 71 found
+#   - cache: 73 found
 #   - quake3://master.1fxmod.org:20110: 54 found
 # Format: ip:port
 #
@@ -17,6 +17,7 @@
 49.13.216.88:20200
 49.13.216.88:20201
 49.13.216.88:20202
+51.20.71.108:20101
 54.36.100.17:7827
 54.36.100.17:7828
 54.36.100.17:7829
@@ -67,6 +68,7 @@
 185.107.96.251:20102
 186.49.80.59:20100
 186.49.146.26:20100
+186.49.172.113:20100
 186.49.204.115:20100
 186.52.120.9:20100
 186.52.164.62:20100

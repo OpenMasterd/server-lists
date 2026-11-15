@@ -1,10 +1,10 @@
 # Server address list for FlatOut 2 (PC) (flatout2pc)
-# Last fetch (UTC): 2026-11-14T12:01:52Z
+# Last fetch (UTC): 2026-11-15T12:01:42Z
 # Category: GameSpy PC Classic | Protocol: gamespy1 | Default Port: 6500
-# Active servers found: 13
+# Active servers found: 15
 # Sources:
-#   - cache: 10 found
-#   - gamespy1://master.openspy.net:28900: 3 found
+#   - cache: 13 found
+#   - gamespy1://master.openspy.net:28900: 2 found
 #   - gamespy1://master.333networks.com:28900: 0 found
 # Format: ip:port
 #
@@ -14,6 +14,8 @@
 62.122.3.133:4180
 62.122.104.241:13340
 84.54.75.109:23756
+86.22.75.8:33507
+88.12.157.68:23756
 91.239.227.54:2072
 94.158.63.151:23756
 178.205.96.247:23756
