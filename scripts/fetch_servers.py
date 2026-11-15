@@ -542,6 +542,14 @@ def fetch_http_urls(url: str, timeout: float = 15.0) -> list[str]:
         line = line.strip()
         if not line or line.startswith("#"):
             continue
+        # Support space-separated "IP PORT [QUERYPORT]" (e.g. gameserverlister.com)
+        parts = line.split()
+        if len(parts) >= 2 and all(p.isdigit() for p in parts[0].split(".")):
+            ip, port = parts[0], parts[1]
+            if port.isdigit() and 1 <= int(port) <= 65535:
+                addrs.append(f"{ip}:{port}")
+                continue
+        # Support standard IP:PORT
         m = ADDR_RE.match(line)
         if m:
             addrs.append(f"{m.group(1)}:{m.group(2)}")
@@ -735,6 +743,26 @@ def load_all_catalogs() -> tuple[list[dict], dict[str, dict]]:
             g_def["http_sources"] = [
                 "https://hambloch.com/kingpin/servers_active.php?gameport=1"
             ]
+
+        # Special Unreal Tournament (UT99) enrichment
+        if lower_gn in ("ut", "ut99"):
+            extra_ut_masters = [
+                {"host": "master.oldunreal.com", "port": 28900},
+                {"host": "master.333networks.com", "port": 28900},
+                {"host": "master.newbiesplayground.net", "port": 28900},
+                {"host": "master.gonespy.com", "port": 28900},
+                {"host": "master.frag-net.com", "port": 28900},
+                {"host": "master.noccer.de", "port": 28900},
+                {"host": "master-au.unrealarchive.org", "port": 28900},
+                {"host": "master.openspy.net", "port": 28900},
+                {"host": "master2.qtracker.com", "port": 28900},
+                {"host": "medor.no-ip.org", "port": 28900},
+            ]
+            for em in extra_ut_masters:
+                if not any(m.get("host") == em["host"] for m in g_def["masters"]):
+                    g_def["masters"].append(em)
+            if "http://lists.gameserverlister.com/ut-servers.txt" not in g_def["http_sources"]:
+                g_def["http_sources"].append("http://lists.gameserverlister.com/ut-servers.txt")
 
         games_by_name[gn] = g_def
 

@@ -1,11 +1,11 @@
 # Server address list for Alien Arena (alienarena)
-# Last fetch (UTC): 2026-11-15T12:01:42Z
+# Last fetch (UTC): 2026-11-15T21:19:26Z
 # Category: idTech / Quake | Protocol: quake2 | Default Port: 27900
 # Active servers found: 33
 # Sources:
 #   - cache: 33 found
 #   - quake2://master.alienarena.org:27900: 20 found
-#   - quake2://master2.alienarena.org:27900: 15 found
+#   - quake2://master2.alienarena.org:27900: 13 found
 # Format: ip:port
 #
 15.204.118.138:27910
