@@ -1,12 +1,13 @@
 # Server address list for QuakeWorld (qw)
-# Last fetch (UTC): 2026-11-15T21:19:26Z
+# Last fetch (UTC): 2026-11-16T12:02:15Z
 # Category: idTech / Quake | Protocol: quakeworld | Default Port: 27500
 # Active servers found: 958
 # Sources:
-#   - cache: 809 found
-#   - quakeworld://master.quakeservers.net:27000: 684 found
-#   - quakeworld://qwmaster.fodquake.net:27000: 653 found
-#   - quakeworld://master.quakeworld.nu:27000: 295 found
+#   - cache: 958 found
+# Master connection issues (cached entries preserved):
+#   - quakeworld://master.quakeservers.net:27000: no response from master
+#   - quakeworld://qwmaster.fodquake.net:27000: no response from master
+#   - quakeworld://master.quakeworld.nu:27000: no response from master
 # Format: ip:port
 #
 5.39.84.156:27510
