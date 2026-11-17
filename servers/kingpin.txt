@@ -1,13 +1,13 @@
 # Server address list for Kingpin: Life of Crime (kingpin)
-# Last fetch (UTC): 2026-11-16T12:02:15Z
+# Last fetch (UTC): 2026-11-17T12:02:13Z
 # Category: idTech / Quake | Protocol: gamespy1 | Default Port: 6500
-# Active servers found: 100
+# Active servers found: 104
 # Sources:
-#   - cache: 98 found
+#   - cache: 100 found
 #   - http://hambloch.com/kingpin/servers_active.php?gameport=1: 36 found
-#   - q2udp://master.hambloch.com:27900: 37 found
+#   - q2udp://master.hambloch.com:27900: 39 found
 #   - q2udp://master.shavargo.com:27900: 4 found
-#   - gamespy1://master.kingpin.info:28900: 37 found
+#   - gamespy1://master.kingpin.info:28900: 39 found
 #   - gamespy1://master1.kingpin.info:28900: 30 found
 #   - gamespy1://master2.kingpin.info:28900: 30 found
 #   - gamespy1://master3.kingpin.info:28900: 30 found
@@ -50,6 +50,10 @@
 91.20.122.247:31512
 91.20.122.247:31520
 91.20.122.247:31522
+92.41.176.4:63877
+92.41.176.4:63887
+92.41.176.4:63923
+92.41.176.4:63933
 92.41.176.112:47569
 92.41.176.112:47579
 92.41.176.112:47598
