@@ -1,10 +1,10 @@
 # Server address list for Warsow (warsow)
-# Last fetch (UTC): 2026-11-17T12:02:13Z
+# Last fetch (UTC): 2026-11-18T12:02:19Z
 # Category: idTech / Quake | Protocol: quake3 | Default Port: 27950
 # Active servers found: 254
 # Sources:
-#   - cache: 242 found
-#   - quake3://dpmaster.deathmask.net:27950: 23 found
+#   - cache: 254 found
+#   - quake3://dpmaster.deathmask.net:27950: 11 found
 # Master connection issues (cached entries preserved):
 #   - quake3://dpmaster.tchr.no:27950: no response from master
 # Format: ip:port

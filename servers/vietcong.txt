@@ -1,7 +1,7 @@
 # Server address list for Vietcong (vietcong)
-# Last fetch (UTC): 2026-11-17T12:02:13Z
+# Last fetch (UTC): 2026-11-18T12:02:19Z
 # Category: GameSpy PC Classic | Protocol: gamespy1 | Default Port: 6500
-# Active servers found: 118
+# Active servers found: 119
 # Sources:
 #   - cache: 118 found
 #   - gamespy1://master.openspy.net:28900: 30 found
@@ -119,6 +119,7 @@
 186.58.54.134:5425
 186.58.79.234:5425
 186.58.127.64:15425
+188.218.225.124:5425
 193.208.82.165:5425
 193.208.82.165:15425
 217.195.168.93:5425

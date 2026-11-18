@@ -1,13 +1,14 @@
 # Server address list for Supersonic Acrobatic Rocket-Powered BattleCars: BattleBall Arena (bballarenaps3)
-# Last fetch (UTC): 2026-11-17T12:02:13Z
+# Last fetch (UTC): 2026-11-18T12:02:19Z
 # Category: GameSpy PC Classic | Protocol: gamespy1 | Default Port: 6500
-# Active servers found: 3
+# Active servers found: 4
 # Sources:
 #   - cache: 3 found
-#   - gamespy1://master.openspy.net:28900: 0 found
+#   - gamespy1://master.openspy.net:28900: 1 found
 #   - gamespy1://master.333networks.com:28900: 0 found
 # Format: ip:port
 #
+92.44.21.9:6501
 181.46.48.63:6501
 181.118.115.243:6501
 181.118.115.243:6502
