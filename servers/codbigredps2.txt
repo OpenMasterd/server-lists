@@ -1,11 +1,12 @@
 # Server address list for Call of Duty 2: Big Red One (PS2) (codbigredps2)
-# Last fetch (UTC): 2026-11-18T12:02:19Z
+# Last fetch (UTC): 2026-11-19T12:02:03Z
 # Category: Console | Protocol: gamespy1 | Default Port: 6500
-# Active servers found: 1
+# Active servers found: 2
 # Sources:
 #   - cache: 1 found
-#   - gamespy1://master.openspy.net:28900: 0 found
+#   - gamespy1://master.openspy.net:28900: 1 found
 #   - gamespy1://master.333networks.com:28900: 0 found
 # Format: ip:port
 #
 171.226.242.103:62743
+171.226.242.103:62874

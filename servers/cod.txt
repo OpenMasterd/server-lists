@@ -1,9 +1,9 @@
 # Server address list for Call of Duty (cod)
-# Last fetch (UTC): 2026-11-18T12:02:19Z
+# Last fetch (UTC): 2026-11-19T12:02:03Z
 # Category: idTech / Quake | Protocol: quake3 | Default Port: 28960
-# Active servers found: 554
+# Active servers found: 556
 # Sources:
-#   - cache: 549 found
+#   - cache: 554 found
 #   - quake3://codmaster.activision.com:20510: 80 found
 # Format: ip:port
 #
@@ -44,6 +44,7 @@
 78.46.76.145:23619
 78.46.76.145:24007
 78.46.76.145:24083
+78.46.76.145:28886
 78.46.76.145:30568
 78.46.76.145:38982
 78.46.76.145:44443
@@ -527,6 +528,7 @@
 144.76.41.252:28960
 147.135.70.122:28960
 151.49.0.153:28963
+151.49.37.240:28963
 159.195.39.77:1004
 159.195.39.77:28963
 167.235.192.175:23100

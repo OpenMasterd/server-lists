@@ -1,9 +1,9 @@
 # Server address list for F1 1999-2000 Compilation (f1comp)
-# Last fetch (UTC): 2026-11-18T12:02:19Z
+# Last fetch (UTC): 2026-11-19T12:02:03Z
 # Category: GameSpy PC Classic | Protocol: gamespy1 | Default Port: 6500
-# Active servers found: 6
+# Active servers found: 7
 # Sources:
-#   - cache: 5 found
+#   - cache: 6 found
 #   - gamespy1://master.openspy.net:28900: 1 found
 #   - gamespy1://master.333networks.com:28900: 0 found
 # Format: ip:port
@@ -13,4 +13,5 @@
 86.12.109.132:34297
 109.81.14.86:34297
 109.174.4.62:34297
+179.27.28.98:34297
 186.122.40.84:34297

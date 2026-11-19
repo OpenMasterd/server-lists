@@ -1,9 +1,9 @@
 # Server address list for Global Operations (globalops)
-# Last fetch (UTC): 2026-11-18T12:02:19Z
+# Last fetch (UTC): 2026-11-19T12:02:03Z
 # Category: GameSpy PC Classic | Protocol: gamespy1 | Default Port: 6500
-# Active servers found: 24
+# Active servers found: 25
 # Sources:
-#   - cache: 23 found
+#   - cache: 24 found
 #   - gamespy1://master.openspy.net:28900: 6 found
 #   - gamespy1://master.333networks.com:28900: 3 found
 # Format: ip:port
@@ -16,6 +16,7 @@
 84.156.111.14:28672
 84.156.111.221:28672
 91.14.242.131:28672
+91.14.244.6:28672
 93.203.197.123:28672
 93.203.202.119:28672
 93.203.203.166:28672
