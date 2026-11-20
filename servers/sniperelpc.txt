@@ -1,0 +1,10 @@
+# Server address list for Sniper Elite (PC) (sniperelpc)
+# Last fetch (UTC): 2026-11-20T12:02:26Z
+# Category: GameSpy PC Classic | Protocol: gamespy1 | Default Port: 6500
+# Active servers found: 1
+# Sources:
+#   - gamespy1://master.openspy.net:28900: 1 found
+#   - gamespy1://master.333networks.com:28900: 0 found
+# Format: ip:port
+#
+188.252.193.228:3658

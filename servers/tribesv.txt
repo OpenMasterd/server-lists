@@ -1,13 +1,14 @@
 # Server address list for Tribes Vengeance Retail Test Lobby (tribesv)
-# Last fetch (UTC): 2026-11-19T12:02:03Z
+# Last fetch (UTC): 2026-11-20T12:02:26Z
 # Category: GameSpy PC Classic | Protocol: gamespy1 | Default Port: 6500
-# Active servers found: 9
+# Active servers found: 10
 # Sources:
 #   - cache: 9 found
-#   - gamespy1://master.openspy.net:28900: 8 found
+#   - gamespy1://master.openspy.net:28900: 9 found
 #   - gamespy1://master.333networks.com:28900: 0 found
 # Format: ip:port
 #
+16.171.33.33:7778
 51.161.143.42:7778
 66.181.34.110:8889
 68.101.204.25:60163
