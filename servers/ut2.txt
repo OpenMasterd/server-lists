@@ -1,10 +1,10 @@
 # Server address list for Unreal Tournament 2003 (ut2)
-# Last fetch (UTC): 2026-11-21T12:02:08Z
+# Last fetch (UTC): 2026-11-22T12:02:09Z
 # Category: Unreal Engine | Protocol: gamespy1 | Default Port: 7787
-# Active servers found: 20
+# Active servers found: 21
 # Sources:
 #   - cache: 20 found
-#   - gamespy1://master.openspy.net:28900: 12 found
+#   - gamespy1://master.openspy.net:28900: 13 found
 #   - gamespy1://master.333networks.com:28900: 0 found
 # Format: ip:port
 #
@@ -26,5 +26,6 @@
 159.196.128.63:7777
 176.52.54.156:7777
 192.164.1.168:7777
+192.164.3.35:7777
 192.164.7.81:7777
 192.164.7.81:7799

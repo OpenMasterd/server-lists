@@ -1,9 +1,9 @@
 # Server address list for Unvanquished (unvanquished)
-# Last fetch (UTC): 2026-11-21T12:02:08Z
+# Last fetch (UTC): 2026-11-22T12:02:09Z
 # Category: idTech / Quake | Protocol: quake3 | Default Port: 27960
 # Active servers found: 14
 # Sources:
-#   - cache: 12 found
+#   - cache: 14 found
 #   - quake3://master.unvanquished.net:27950: 13 found
 #   - quake3://master2.unvanquished.net:27950: 13 found
 # Format: ip:port
