@@ -1,9 +1,9 @@
 # Server address list for Star Trek: Voyager - Elite Force (eliteforce)
-# Last fetch (UTC): 2026-11-22T12:02:09Z
+# Last fetch (UTC): 2026-11-23T22:57:05Z
 # Category: idTech / Quake | Protocol: quake3 | Default Port: 27960
-# Active servers found: 93
+# Active servers found: 97
 # Sources:
-#   - cache: 89 found
+#   - cache: 93 found
 #   - quake3://efmaster.tjps.eu:27953: 24 found
 #   - quake3://master.stef1.daggolin.de:27953: 30 found
 #   - quake3://master.stvef.org:27953: 29 found
@@ -56,6 +56,10 @@
 80.171.179.85:27960
 80.171.179.85:27961
 80.171.179.85:27963
+80.171.189.19:27960
+80.171.189.19:27961
+80.171.189.19:27962
+80.171.189.19:27963
 80.171.189.97:27960
 80.171.189.97:27961
 80.171.189.97:27962
