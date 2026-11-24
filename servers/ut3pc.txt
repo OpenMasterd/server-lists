@@ -1,10 +1,10 @@
 # Server address list for Unreal Tournament 3 (PC) (ut3pc)
-# Last fetch (UTC): 2026-11-23T22:57:05Z
+# Last fetch (UTC): 2026-11-24T21:35:48Z
 # Category: Unreal Engine | Protocol: gamespy1 | Default Port: 6500
-# Active servers found: 54
+# Active servers found: 56
 # Sources:
 #   - cache: 54 found
-#   - gamespy1://master.openspy.net:28900: 39 found
+#   - gamespy1://master.openspy.net:28900: 41 found
 #   - gamespy1://master.333networks.com:28900: 0 found
 # Format: ip:port
 #
@@ -25,6 +25,7 @@
 50.35.154.20:59965
 51.89.96.8:7798
 62.251.23.89:6500
+71.200.215.122:6500
 76.146.122.241:6500
 77.25.32.218:23508
 77.56.120.38:6500
@@ -36,6 +37,7 @@
 82.72.230.57:6500
 83.130.239.94:6500
 84.73.118.131:6500
+85.67.120.41:42568
 86.131.222.58:6500
 89.163.193.171:6500
 91.227.163.62:6500
