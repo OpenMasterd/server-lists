@@ -1,10 +1,10 @@
 # Server address list for Battlefield 1942: Secret Weapons of WW2 (bfield1942)
-# Last fetch (UTC): 2026-11-26T20:35:43Z
+# Last fetch (UTC): 2026-11-27T20:22:21Z
 # Category: EA / DICE | Protocol: gamespy1 | Default Port: 23000
-# Active servers found: 105
+# Active servers found: 106
 # Sources:
 #   - cache: 105 found
-#   - gamespy1://master.openspy.net:28900: 91 found
+#   - gamespy1://master.openspy.net:28900: 95 found
 #   - gamespy1://master.333networks.com:28900: 0 found
 # Format: ip:port
 #
@@ -46,6 +46,7 @@
 78.46.52.115:14569
 80.190.80.111:14567
 83.169.7.242:14567
+85.202.163.253:26478
 87.118.124.187:14567
 88.99.175.33:14568
 89.58.36.126:6135

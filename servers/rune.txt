@@ -1,10 +1,10 @@
 # Server address list for Rune Demo (rune)
-# Last fetch (UTC): 2026-11-26T20:35:43Z
+# Last fetch (UTC): 2026-11-27T20:22:21Z
 # Category: Unreal Engine | Protocol: gamespy1 | Default Port: 6500
-# Active servers found: 54
+# Active servers found: 55
 # Sources:
 #   - cache: 54 found
-#   - gamespy1://master.333networks.com:28900: 33 found
+#   - gamespy1://master.333networks.com:28900: 34 found
 #   - gamespy1://master.openspy.net:28900: 5 found
 # Format: ip:port
 #
@@ -54,6 +54,7 @@
 87.99.133.130:7777
 88.97.18.58:8000
 88.97.18.58:8100
+92.24.200.191:7777
 94.19.41.58:7787
 94.77.162.62:7795
 119.18.2.31:7777

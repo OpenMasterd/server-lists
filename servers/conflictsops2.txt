@@ -1,13 +1,14 @@
 # Server address list for Conflict: Global Storm PS2 (conflictsops2)
-# Last fetch (UTC): 2026-11-26T20:35:43Z
+# Last fetch (UTC): 2026-11-27T20:22:21Z
 # Category: GameSpy PC Classic | Protocol: gamespy1 | Default Port: 6500
-# Active servers found: 5
+# Active servers found: 6
 # Sources:
 #   - cache: 5 found
-#   - gamespy1://master.openspy.net:28900: 0 found
+#   - gamespy1://master.openspy.net:28900: 1 found
 #   - gamespy1://master.333networks.com:28900: 0 found
 # Format: ip:port
 #
+92.209.38.74:13132
 190.9.97.114:19171
 190.9.97.114:19867
 190.9.97.114:20220
