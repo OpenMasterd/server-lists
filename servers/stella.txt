@@ -1,10 +1,10 @@
 # Server address list for Battlefield 2142 (correct gamekey) (stella)
-# Last fetch (UTC): 2026-11-27T20:22:21Z
+# Last fetch (UTC): 2026-11-28T19:11:15Z
 # Category: EA / DICE | Protocol: gamespy1 | Default Port: 6500
-# Active servers found: 23
+# Active servers found: 24
 # Sources:
 #   - cache: 23 found
-#   - gamespy1://master.openspy.net:28900: 12 found
+#   - gamespy1://master.openspy.net:28900: 13 found
 #   - gamespy1://master.333networks.com:28900: 0 found
 # Format: ip:port
 #
@@ -21,6 +21,7 @@
 77.38.64.23:29901
 77.56.120.38:29900
 84.73.118.131:29900
+85.202.163.253:33147
 91.99.61.226:29900
 95.31.234.79:29900
 95.179.130.30:29901

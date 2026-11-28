@@ -1,14 +1,15 @@
 # Server address list for FEAR: First Encounter Assault Recon (fear)
-# Last fetch (UTC): 2026-11-27T20:22:21Z
+# Last fetch (UTC): 2026-11-28T19:11:15Z
 # Category: GameSpy PC Classic | Protocol: gamespy1 | Default Port: 6500
-# Active servers found: 4
+# Active servers found: 5
 # Sources:
 #   - cache: 4 found
-#   - gamespy1://master.openspy.net:28900: 4 found
+#   - gamespy1://master.openspy.net:28900: 5 found
 #   - gamespy1://master.333networks.com:28900: 0 found
 # Format: ip:port
 #
 41.216.189.225:27895
 41.216.189.225:27896
 41.216.189.225:27897
+62.217.187.161:27888
 176.223.137.45:27889
